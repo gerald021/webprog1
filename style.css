@@ -1,0 +1,38 @@
+*
+body{
+	border-bottom-style: 40px;
+	border-color: white;
+	background-image: url(zxc.jpeg);
+
+}	
+.bg-image{
+	background-image: url("zxc.jpeg");
+	filter: blur(4px);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+h1{
+	color: yellow;
+	font-size: 50px;
+}
+
+h5{
+	color: yellow;
+}
+h4{
+	color: Green;
+	background-color: skyblue;
+	background-size: 20px;
+}
+p{
+	color:black;
+}
+table{
+	border-style: outset;
+}
+form
+{
+	font-family: monospace;
+}
